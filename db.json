@@ -245,7 +245,7 @@
             "country": "Eritrea",
             "current": {
               "temperature": 22,
-              "description": "Cloudy",
+              "description": "Rainy",
               "humidity": 75,
               "wind_speed": 10
             },
@@ -266,7 +266,7 @@
                 "date": "2024-02-15",
                 "temperature_min": 22,
                 "temperature_max": 29,
-                "description": "Mostly cloudy"
+                "description": "Mostly Cloudy"
               }
             ]
           },
@@ -605,7 +605,7 @@
                     "country": "Lesotho",
                     "current": {
                       "temperature": 26,
-                      "description": "Clear",
+                      "description": "Rainy",
                       "humidity": 65,
                       "wind_speed": 12
                     },
